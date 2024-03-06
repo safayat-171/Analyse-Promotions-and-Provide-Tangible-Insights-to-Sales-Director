@@ -6,15 +6,13 @@
 
  - [About Atliq Mart](#about-atliq-mart)
  - [Project Overview](#project-overview)
- - Probelem Statement(#problem-statement)
+ - [Problem Statement](#problem-statement)
+ - [Objective of the Project](#objective-of-the-project)
+ - [Store Performance Analysis](#store-performance-analysis)
+ - [Promotion Type Analysis](#promotion-type-analysis)
+ - [Product And Category Analysis](#product-and-category-analysis)
+ - [Recommendation](#recommendation)
 
-_   About Atliq Mart
-   2. Objective of the project
-   3. Probklem Statement
-   4. Store Perforamnce Analysis
-   5. Promotion Type Analysis
-   6. Product and Category Analysis
-   7. Recommendation
 
 ## About Atliq Mart
 
@@ -40,14 +38,43 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 
 ### List of products with based price greater than 500 and promo type BOGOF
 
-:cod
+![01](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/5312a7ed-8400-4a43-8036-2d29dd3eec72)
 
-SELECT distinct(dim_products.product_name), 
-       fact_events.base_price
-FROM fact_events
-INNER JOIN dim_products
-ON fact_events.product_code = dim_products.product_code
-where promo_type = 'BOGOF' and base_price > 500
+#### Result:
+
+![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/7b2a1291-1cc8-45f6-914c-60ff4c234a43)
+
+### Number of Store in each city to identify cities with hghest stores presence
+
+![2](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/5526061d-df2b-464c-bdf4-e0587f07f1d6)
+
+#### Result:
+
+![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/808f5718-6d9f-47a1-a625-2ffb033a4db8)
+
+### Total Revenue comparison between before and after promotion 
+
+![3](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/16eff8e5-caff-4e7e-b504-6a3d726192b0)
+
+#### Result:
+
+![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/04193bc6-3edc-42e8-a396-e4db038abb29)
+
+### Diwali Campaign ISU % Calculation for each product category
+
+![4](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/273372ae-d7d8-4622-9a87-fba667a0c2cf)
+
+#### Result
+
+![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/2fcde4c6-a6f5-4539-974d-715847b9e56c)
+
+### Top 5 products ranked by Incremental Revenue Percentage
+
+![5](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/ba8dd334-471a-4e6d-846f-5757f56caaf3)
+
+#### Result
+
+![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/f5be1075-5593-4bb6-ae21-4b990bde943e)
 
 ## Store Performance Analysis
 ## Promotion Type Aanlysis
