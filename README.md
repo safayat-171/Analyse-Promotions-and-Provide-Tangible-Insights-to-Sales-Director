@@ -92,4 +92,10 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 
   - Which product categories saw the most significant lift in sales from the promotions?
   - Are there specific products that respond exceptionally well or poorly to promotions?
-  - What is the correlation between product category and promotion type effect 
+  - What is the correlation between product category and promotion type effect
+
+## Visualization
+
+Explore the live Tableau Interavtive Dashboard
+
+[View Dashboard](https://public.tableau.com/app/profile/safayat.ahmed/viz/CodebasicsChallenge9_17098354807150/Dashboard1?publish=yes)
