@@ -76,6 +76,20 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 
 ![image](https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/f5be1075-5593-4bb6-ae21-4b990bde943e)
 
-## Store Performance Analysis
+### Store Performance Analysis
+   - Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
+   - Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
+   - How does the performance of stores vary by city? Are there any common characteristics among the top-performing stores that could be leveraged across other stores?
+
 ## Promotion Type Aanlysis
+
+  - What are the top 2 promotion types that resulted in the highest Incremental Revenue?
+  - What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units?
+  - Is there a significant difference in the performance of discount-based promotions versus BOGOF (Buy One Get One Free) or cashback promotions?
+  - Which promotions strike the best balance between Incremental Sold Units and maintaining healthy margins?
+
 ## Product And Category Analysis
+
+  - Which product categories saw the most significant lift in sales from the promotions?
+  - Are there specific products that respond exceptionally well or poorly to promotions?
+  - What is the correlation between product category and promotion type effect 
