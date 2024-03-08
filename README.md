@@ -29,7 +29,7 @@ The sales director wants to understand which promotions did well and which did n
 
 ## Objective 
 
-Peter Pandey, as a curious data analyst is responsible to analyze atliq mart sales performance during the promotional period and provide tangible recommendation,
+Peter Pandey, as a curious data analyst is responsible to analyze atliq mart sales performance during the promotional period and give him convincing presentation about the performance with actionable insights.
 
 ## Data Sources
 
@@ -41,7 +41,7 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 - SQL - Data Analysis (MySQL)
 - Tableau - Data Visualization
 
-## Ad-hoc Request
+## Ad-hoc Business Request: 
 
 ### List of products with based price greater than 500 and promo type BOGOF
 
