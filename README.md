@@ -23,6 +23,13 @@ Atliq is a retail giant with 50 superstores in the southern region of india. The
 
 The project is aims to evaluate the festival promotion runned by Atliq Mart and during this time period, it need to analyze various aspects of sales performance around the stores across multiple cities. Through the sales performance matrics, we seek to analyze the performance of stores and get deep into success of two festival promotion, and provide data-driven recommendation to make informed decsions in the next promotions 
 
+## Problem Statement
+
+The sales director wants to understand which promotions did well and which did not so he could design the next promotions accordingly.
+
+## Objective 
+
+Peter Pandey, as a curious data analyst is responsible to analyze atliq mart sales performance during the promotional period and provide tangible recommendation,
 
 ## Data Sources
 
@@ -99,3 +106,7 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 Explore the live Tableau Interavtive Dashboard
 
 [View Dashboard](https://public.tableau.com/app/profile/safayat.ahmed/viz/CodebasicsChallenge9_17098354807150/Dashboard1?publish=yes)
+
+## Insights
+
+  - 
