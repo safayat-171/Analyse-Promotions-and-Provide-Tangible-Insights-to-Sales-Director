@@ -1,6 +1,6 @@
 # Atliq Mart: Analyse Marketing Promotion and Provide Tangible Insights to Sales Director
 
-#### Created By : Safayat Ahmed || Linkedin: http://linkedin.com/in/safayatahmed
+#### Created By : Safayat Ahmed || [Linkedin Profile](http://linkedin.com/in/safayatahmed)
 
 ## Table of Contents
 
