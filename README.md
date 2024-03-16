@@ -103,14 +103,14 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 
 ## Key Findings:
 
-- Bengaluru and Chennai emerged as the top-performing cities, achieving the highest Incremental Sold Units and Revenue.
+- Bengaluru and Chennai emerged as the top-performing cities, achieving the highest Incremental Sold Units and Revenue. However, Mysuru has been amazing in its revenue stats though has only 4 stores 
 - The top two promotion types, 500 cashback and BOGOF (Buy One Get One Free), generated the highest Incremental Revenue.
 - Grocery & Staples, Home Appliances, and Home care categories experienced the most significant lift in sales from the promotions.
 - Certain products, such as Atliq_waterproof_immersion_red and Atliq_High_Glo_15W_LED_Bulb, exhibited exceptional responsiveness to promotions.
 
 ## Recommendation
 
-- The 500 cashback promo for combo1 was a big success. 
+- The 500 cashback promo for combo1 was a big success. They may adapt loyalty and reward offers in future to retain their customer buying.
 
 - Atliq should focus on bringing up IR% and ISU% both for cashback promotional and  BOGOF. A bundle offer can be interesting to instant boost of target sales and revenue
 
@@ -118,7 +118,11 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
   
 - BOGOF has increase in sales volume but the incremental revenue which it generates is less and this reflects on the overall promotion revenue. So rather being focus on this pricing for BOGOF, it could generate healthy margin
 
-<img width="1793" alt="image" src="https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/32fba53e-cc53-460a-9158-d71028d6b956">
+- Bengaluru & Chennai contribute more than 40% of total revenue generated. They could use the customer demographic, buying pattern and response of this location to apply those on other stores which are not performing up to the mark.
+
+- Personal care products need to have adjustments in pricing and customer engagement or brand engagement activity to offset the negative IR
+
+- At last Atliq should analyze its customer segment and demographic for all its future promotional activities. This may lead to customize their offers for few of its stores respective of the cities to get better outcome.
 
 
 ## Visualization
@@ -127,6 +131,12 @@ Explore the live Tableau Interavtive Dashboard
 
 [View Dashboard](https://public.tableau.com/app/profile/safayat.ahmed/viz/CodebasicsChallenge9_17098354807150/Dashboard1?publish=yes)
 
-## Insights
 
-  - 
+## Areas for Improvement:
+
+- Implement targeted strategies to enhance promotion effectiveness in stores and categories with lower performance.
+- Conduct further analysis to optimize promotion strategies for product categories that did not exhibit significant sales lift
+
+## Outcome
+
+The analysis provided actionable insights that can potentially lead to increased revenue and improved marketing effectiveness in the future promotional offers for Atliq Mart.
