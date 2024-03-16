@@ -1,1 +1,2 @@
-
+SELECT HELLO
+FROM Input_files
