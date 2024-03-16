@@ -101,6 +101,26 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
   - Are there specific products that respond exceptionally well or poorly to promotions?
   - What is the correlation between product category and promotion type effect
 
+## Key Findings:
+
+- Bengaluru and Chennai emerged as the top-performing cities, achieving the highest Incremental Sold Units and Revenue.
+- The top two promotion types, 500 cashback and BOGOF (Buy One Get One Free), generated the highest Incremental Revenue.
+- Grocery & Staples, Home Appliances, and Home care categories experienced the most significant lift in sales from the promotions.
+- Certain products, such as Atliq_waterproof_immersion_red and Atliq_High_Glo_15W_LED_Bulb, exhibited exceptional responsiveness to promotions.
+
+## Recommendation
+
+- The 500 cashback promo for combo1 was a big success. 
+
+- Atliq should focus on bringing up IR% and ISU% both for cashback promotional and  BOGOF. A bundle offer can be interesting to instant boost of target sales and revenue
+
+- Atliq should be more strategic in terms of discount based promotional offers all togerther to run. This offers push back the promotional revenue so they need to curate their offers carefully to maximixe the reveneu
+  
+- BOGOF has increase in sales volume but the incremental revenue which it generates is less and this reflects on the overall promotion revenue. So rather being focus on this pricing for BOGOF, it could generate healthy margin
+
+<img width="1793" alt="image" src="https://github.com/safayat-171/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/100015367/32fba53e-cc53-460a-9158-d71028d6b956">
+
+
 ## Visualization
 
 Explore the live Tableau Interavtive Dashboard
